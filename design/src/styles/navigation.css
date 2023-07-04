@@ -24,5 +24,12 @@
     color: white;
 }
 
+@media screen and (max-width:667px) {
+    .navbar {
+        gap: 1rem;
+    }
+    }
+
+
 
 
