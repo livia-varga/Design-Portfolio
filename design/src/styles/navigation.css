@@ -5,10 +5,8 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: #F6EDE8;
-    /* border-bottom: 2px solid #ECDBD1; */
     align-items: center;
-    background-color: #cfbbc2;
+    background-color: #ded4d8;
     text-decoration: none;
     height:80px;
 }
@@ -21,7 +19,7 @@
 
 .nav-link {
     text-decoration: none;
-    color: white;
+    color: rgb(155, 129, 129);
 }
 
 @media screen and (max-width:667px) {

@@ -1,6 +1,35 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    background-color: #ded4d8;
+}
 
 
-.h1text {
-    color:#875940;
-    font-weight:lighter;
+.big-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 40px;
+    margin-top: 30px;
+}
+
+.homepics {
+    max-width: 600px;
+}
+
+.lasthomepics {
+    max-width: 600px;
+    margin-bottom:100px;
+}
+
+@media screen and (max-width:667px) {
+    .homepics {
+        height: 250px;
+        width: 345px;
+    }
+    .lasthomepics {
+        height: 250px;
+        width: 345px;
+    }
 }

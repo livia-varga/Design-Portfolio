@@ -4,7 +4,7 @@ import Layout from './components/Layout';
 import Portfoliopage from './pages/portfoliopage';
 import Aboutpage from './pages/Aboutpage';
 import Contactpage from './pages/Contactpage';
-import homepage from './pages/homepage';
+import Homepage from './pages/Homepage';
 
 
 
@@ -27,7 +27,7 @@ const router= createBrowserRouter([
       },
       {
         path:'/',
-        element:<homepage/>
+        element:<Homepage/>
       }
 
     ]
