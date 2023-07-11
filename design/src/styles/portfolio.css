@@ -1,6 +1,7 @@
 .welcomehome {
     color: #875940;
     font-weight: lighter;
+    text-transform: uppercase;
 }
 
 .portfolio-container {
@@ -23,15 +24,22 @@
     gap:50px;
 }
 
-.color-box {
-    width: 500px;
-    background-color: rgb(216, 173, 203);
-    height:500px;
+
+.sugar-text {
+    position:absolute;
+    top:80px;
+    background-color: rgb(237, 226, 233);
+    font-size:medium;
 }
 
 
 .imgportfolio {
-    width: 600px;
+    width: 900px;
+    margin-bottom:50px;
+}
+
+.imgportfolio2 {
+    width: 900px;
 }
 
 @media screen and (max-width:667px) {
@@ -43,9 +51,7 @@
     .imgportfolio {
         width: 300px;
     }
-
-    .color-box {
-        width: 300px;
-        height:200px;
+    .imgportfolio2 {
+        width: 350px;
     }
 }

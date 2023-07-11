@@ -22,6 +22,15 @@
     color: rgb(155, 129, 129);
 }
 
+.nav-link-logo {
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+}
+
+.logo {
+    width:100px;
+}
+
 @media screen and (max-width:667px) {
     .navbar {
         gap: 1rem;
