@@ -15,8 +15,8 @@ const Contact = () => {
                         <div className="info">
                             <ul>
                                 <li>E-mail: varga.livia86@gmail.com</li>
-                                <li>Linkedin:<Link to= "linkedin.com/in/lívia-varga-91375944" className="nav-link-skincare">LINKEDIN</Link> </li>
-                                <li>Websites: <Link to= "https://skincaresite.netlify.app/" className="nav-link-skincare">SKINCARE</Link></li>
+                                <li>Linkedin:<Link to= "linkedin.com/in/lívia-varga-91375944" target="_blank" rel="noreferrer" className="nav-link-skincare">LINKEDIN</Link> </li>
+                                <li>Websites: <Link to= "https://skincaresite.netlify.app/" target="_blank" rel="noreferrer" className="nav-link-skincare">SKINCARE</Link></li>
                             </ul>
                         </div>
                     </div>

@@ -1,5 +1,5 @@
 import '../styles/about.css';
-import kep2 from '../styles/pics/kep2.jpg';
+
 
 
 const About = () => {
