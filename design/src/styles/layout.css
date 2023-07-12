@@ -1,0 +1,24 @@
+.App {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+main {
+    flex-grow: 1;
+}
+
+
+@media screen and (max-width:667px) {
+
+    .App {
+        min-height: 120vh;
+        display: flex;
+        flex-direction: column;
+    }
+    
+    main {
+        flex-grow: 1;
+    }   
+
+}

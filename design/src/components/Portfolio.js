@@ -1,7 +1,7 @@
 import '../styles/portfolio.css';
-import Blissfulbites from '../styles/pics/Blissfulbites.png';
-import Blissfulmobile from '../styles/pics/Blissfulmobile.png';
-import Blissfulbites2 from '../styles/pics/Blissfulbites2.png';
+import Blissfulbitesfigma from '../styles/pics/Blissfulbitesfigma.png';
+import Blissfulmobile2 from '../styles/pics/Blissfulmobile2.png';
+import new2 from '../styles/pics/new2.png';
 
 
 const Home = () => {
@@ -12,9 +12,9 @@ const Home = () => {
                <h1 className="welcomehome">Portfolio</h1> 
                <div className="portfolio-container">
                 <div className="wrapper">
-                <img src ={Blissfulbites} className="imgportfolio2" alt='' />
-               <img src ={Blissfulmobile} className="imgportfolio" alt='' />
-               <img src ={Blissfulbites2} className="imgportfolio" alt='' />
+                <img src ={Blissfulbitesfigma} className="imgportfolio" alt='' />
+               <img src ={Blissfulmobile2} className="imgportfolio" alt='' />
+               <img src ={new2} className="imgportfolio2" alt='' />
                </div>
                </div>
             </div>

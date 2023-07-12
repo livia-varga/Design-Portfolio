@@ -35,11 +35,11 @@
 
 .imgportfolio {
     width: 900px;
-    margin-bottom:50px;
 }
 
 .imgportfolio2 {
     width: 900px;
+    margin-bottom: 50px;
 }
 
 @media screen and (max-width:667px) {

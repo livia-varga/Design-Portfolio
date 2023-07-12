@@ -5,9 +5,11 @@ function Navigation() {
 
     return (
         <>
+            <div className="logo-container">
+                <Link to="/" className="nav-link-logo">LIVI|VISUALS</Link>
+            </div>
             <div className="nav-container">
                 <div className='navbar'>
-                    <Link to="/" className="nav-link-logo">LIVI|VISUALS</Link>
                     <Link to="/about" className="nav-link">ABOUT</Link>
                     <Link to='/portfolio' className="nav-link">PORTFOLIO</Link>
                     <Link to='/contact' className="nav-link">CONTACT</Link>
