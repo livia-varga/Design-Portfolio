@@ -1,7 +1,6 @@
 import '../styles/portfolio.css';
 import Blissfulbitesfigma from '../styles/pics/Blissfulbitesfigma.png';
-import Blissfulmobilesmall from '../styles/pics/Blissfulmobilesmall.png';
-import Desktopsmall from '../styles/pics/Desktopsmall.png';
+import Blilssfulmobile from '../styles/pics/Blissfulmobile.png';
 import cutcolor11 from '../styles/pics/cutcolor11.png';
 import cutcolor12 from '../styles/pics/cutcolor12.png';
 
@@ -17,8 +16,7 @@ const Home = () => {
                             <img src={cutcolor12} className="imgportfolio" alt='' />
                             <img src={cutcolor11} className="imgportfolio" alt='' />
                             <img src={Blissfulbitesfigma} className="imgportfolio" alt='' />
-                            <img src={Blissfulmobilesmall} className="imgportfolio" alt='' />
-                            <img src={Desktopsmall} className="imgportfolio2" alt='' />
+                            <img src={Blilssfulmobile} className="imgportfolio2" alt='' />
                         </div>
                     </div>
                 </div>
