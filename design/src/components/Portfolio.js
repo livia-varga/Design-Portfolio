@@ -3,7 +3,7 @@ import Blissfulbitesfigma from '../styles/pics/Blissfulbitesfigma.png';
 import Blilssfulmobile from '../styles/pics/Blissfulmobile.png';
 import cutcolor11 from '../styles/pics/cutcolor11.png';
 import cutcolor12 from '../styles/pics/cutcolor12.png';
-import Sushiorder from '../styles/pics/Sushiorder.png';
+import Sushiorder2 from '../styles/pics/Sushiorder2.png';
 
 
 const Home = () => {
@@ -16,7 +16,7 @@ const Home = () => {
                         <div className="wrapper">
                             <img src={cutcolor12} className="imgportfolio" alt='' />
                             <img src={cutcolor11} className="imgportfolio" alt='' />
-                            <img src={Sushiorder} className="imgportfolio" alt='' />
+                            <img src={Sushiorder2} className="imgportfolio" alt='' />
                             <img src={Blissfulbitesfigma} className="imgportfolio" alt='' />
                             <img src={Blilssfulmobile} className="imgportfolio2" alt='' />
                         </div>
